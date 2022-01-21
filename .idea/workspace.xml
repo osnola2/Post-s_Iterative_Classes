@@ -11,58 +11,54 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/drawing_lattice_III.py">
+        <entry file="file://$PROJECT_DIR$/venv/iteration_unary_binary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+            <state relative-caret-position="663">
+              <caret line="39" column="76" selection-start-line="35" selection-start-column="2" selection-end-line="39" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/unary_systems.py">
+        <entry file="file://$PROJECT_DIR$/venv/iteration_binary_binary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4199">
-              <caret line="248" selection-start-line="248" selection-end-line="248" />
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Posts_Iterative_Classes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="19" selection-start-line="4" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/function_duality.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
               <folding>
-                <element signature="e#0#36#0" expanded="true" />
+                <element signature="e#0#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/basic_definitions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-end-line="13" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/venv/modules_gen_sys_ter.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/iteration_unary_binary.py">
+        <entry file="file://$PROJECT_DIR$/venv/iteration_ternary_binary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="47" column="131" selection-start-line="3" selection-end-line="47" selection-end-column="131" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/iteration_binary_binary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/drawing_lattice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="697">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -70,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/iteration_unary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="45" />
+            <state relative-caret-position="187">
+              <caret line="11" column="41" selection-start-line="7" selection-start-column="2" selection-end-line="11" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -126,7 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/venv/ternary_orbits.py" />
         <option value="$PROJECT_DIR$/venv/ter_sys_one_el_basis.py" />
         <option value="$PROJECT_DIR$/venv/generated_system_ter_IV.py" />
         <option value="$PROJECT_DIR$/venv/sys_two+el_basis.py" />
@@ -162,7 +157,6 @@
         <option value="$PROJECT_DIR$/venv/Post Classes.py" />
         <option value="$PROJECT_DIR$/venv/drawing_lattice.py" />
         <option value="$PROJECT_DIR$/venv/draw_unary_lattice.py" />
-        <option value="$PROJECT_DIR$/venv/Post's_Iterative_Classes.py" />
         <option value="$PROJECT_DIR$/Semi_systems/semi_system_three_el_basis.py" />
         <option value="$PROJECT_DIR$/venv/closing_semi_sistems_I.py" />
         <option value="$PROJECT_DIR$/venv/no_repetition.py" />
@@ -177,15 +171,18 @@
         <option value="$PROJECT_DIR$/venv/drawing_lattice_III.py" />
         <option value="$PROJECT_DIR$/venv/iteration_unary_binary.py" />
         <option value="$PROJECT_DIR$/venv/iteration_unary.py" />
+        <option value="$PROJECT_DIR$/venv/Post's_Iterative_Classes.py" />
+        <option value="$PROJECT_DIR$/venv/function_duality.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="521" />
-    <option name="y" value="26" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="658" />
     <option name="height" value="366" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -198,6 +195,11 @@
             <path>
               <item name="Post's_Iterative_Classes" type="b2602c69:ProjectViewProjectNode" />
               <item name="Post's_Iterative_Classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Post's_Iterative_Classes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Post's_Iterative_Classes" type="462c0819:PsiDirectoryNode" />
+              <item name="Pre_systems" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Post's_Iterative_Classes" type="b2602c69:ProjectViewProjectNode" />
@@ -232,7 +234,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Python/modal-functions2-master" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -253,8 +255,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.iteration_unary">
-    <configuration name="Post_Iterative_Systems" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.function_duality">
+    <configuration name="Post's_Iterative_Classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Post's_Iterative_Classes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,7 +268,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Post_Iterative_Systems.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Dell\PycharmProjects\Post's_Iterative_Classes\venv\Posts_Iterative_Classes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,27 +298,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="drawing_lattice_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Post's_Iterative_Classes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/drawing_lattice_II.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="drawing_lattice_III" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Post's_Iterative_Classes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -330,6 +311,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/drawing_lattice_III.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function_duality" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Post's_Iterative_Classes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/function_duality.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,11 +363,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.function_duality" />
+        <item itemvalue="Python.Post's_Iterative_Classes" />
         <item itemvalue="Python.iteration_unary" />
         <item itemvalue="Python.drawing_lattice_III" />
         <item itemvalue="Python.drawing_lattice" />
-        <item itemvalue="Python.Post_Iterative_Systems" />
-        <item itemvalue="Python.drawing_lattice_II" />
       </list>
     </recent_temporary>
   </component>
@@ -392,13 +394,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.31473213" />
-      <window_info anchor="bottom" id="Python Console" order="0" weight="0.49114332" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.31473213" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="0" visible="true" weight="0.49114332" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50074404" weight="0.34299517" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -408,7 +409,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.32850242" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49925596" visible="true" weight="0.50080514" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49925596" weight="0.34621578" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -434,13 +435,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/binary_systems.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/sys_two_el_basis.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -607,13 +601,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/iteration_ternary_binary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-232">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/draw_unary_lattice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -715,13 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/modules_gen_sys_ter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/sys_as_number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -760,13 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="62" selection-start-line="10" selection-end-line="11" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Post's_Iterative_Classes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" selection-start-line="19" selection-end-line="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -811,13 +784,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/iteration_unary_binary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="131" selection-start-line="3" selection-end-line="47" selection-end-column="131" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/drawing_lattice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -825,10 +791,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/iteration_unary_binary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="76" selection-start-line="35" selection-start-column="2" selection-end-line="39" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/iteration_binary_binary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Posts_Iterative_Classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" selection-start-line="4" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/modules_gen_sys_ter.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/iteration_ternary_binary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/iteration_unary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="45" />
+        <state relative-caret-position="187">
+          <caret line="11" column="41" selection-start-line="7" selection-start-column="2" selection-end-line="11" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -859,10 +856,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/iteration_binary_binary.py">
+    <entry file="file://$PROJECT_DIR$/venv/function_duality.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="153">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

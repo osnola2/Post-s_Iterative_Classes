@@ -33,11 +33,11 @@ def iteration_bin_un_2(func2, func1):
 
 
 
-print(iteration_bin_un_1(bin_val_col[13], un_val_col[2]))
-print(iteration_bin_un_2(bin_val_col[13], un_val_col[2]))
-
-for i in bin_val_col:
-    print(i, iteration_bin_un_1(i, [1, 0]), iteration_bin_un_2(i, [1, 0]))
+# print(iteration_bin_un_1(bin_val_col[13], un_val_col[2]))
+# print(iteration_bin_un_2(bin_val_col[13], un_val_col[2]))
+# 
+# for i in bin_val_col:
+#     print(i, iteration_bin_un_1(i, [1, 0]), iteration_bin_un_2(i, [1, 0]))
 
 
 # for i in bin_truth_val:

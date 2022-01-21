@@ -17,9 +17,9 @@ print(len(systems))
 # print(sorted(systems[24]))
 # print(sorted(systems[52]))
 
-for i in systems:
-    for j in systems:
-        if i != j:
-            if sorted(i) == sorted(j):
-                print(i)
-                print(j)
+# for i in systems:
+#     for j in systems:
+#         if i != j:
+#             if sorted(i) == sorted(j):
+#                 print(i)
+#                 print(j)
